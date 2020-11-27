@@ -2,10 +2,10 @@
 1) Make two folders with the name of dataset and letters .
 
 2) Download dataset from the google drive link and put all the GIFs in it. 
-Google drive link for dataset folder - https://drive.google.com/drive/folders/1O50luY_iW1jXit6hIyfE0-BYncCw1jJ7
+Google drive link for dataset folder - https://drive.google.com/drive/folders/1O50luY_iW1jXit6hIyfE0-BYncCw1jJ7?usp=sharing
 
 3) Download letters from the google drive link and put all the pictures in it.
-Google drive link for letters folder - https://drive.google.com/drive/folders/1K8G6TfY7pfWEdYta9yP7LF00TO44-m7b
+Google drive link for letters folder - https://drive.google.com/drive/folders/1K8G6TfY7pfWEdYta9yP7LF00TO44-m7b?usp=sharing
 
 4) Go to line 104 of run.py , make sure you chnage the path of the dataset folder.
 
